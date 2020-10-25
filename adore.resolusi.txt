@@ -2,3 +2,5 @@ ADORE RESOLUSI
 Konsisten belajar PHP 
 Konsisten belajar CSS
 konsisten belajar JavaScript
+Membuat web sample 
+Membuat web-ecommerce sample
